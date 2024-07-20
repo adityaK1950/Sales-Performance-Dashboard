@@ -10,8 +10,8 @@ This project showcases a comprehensive Sales Performance Dashboard created using
 ### 🏡 Overview
 ![Sales Dashboard 1](https://github.com/user-attachments/assets/a2cf3715-11f4-4055-b8a2-f13ea188ec8a)
 
-### 📊 Detailed Analysis
-![Sales Dashboard 2](URL_TO_YOUR_IMAGE)
+### 📊 Detailed Analysis of Central Region 🌏
+![Sales Dashboard 2](https://github.com/user-attachments/assets/d0ac0771-ba95-488c-a024-9bc3ce5db9bc)
 
 ## Technologies Used 🌐
 
