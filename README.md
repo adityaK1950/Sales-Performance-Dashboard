@@ -27,6 +27,7 @@ This project showcases a comprehensive Sales Performance Dashboard created using
 - Power BI
 - Excel (for data preparation)
 - SQL (for data extraction)
+- Power query ( data preparation and transformation )
 
 ## Features 🌟
 
