@@ -8,7 +8,7 @@ This project showcases a comprehensive Sales Performance Dashboard created using
 ## Screenshots 🖼️
 
 ### 🏡 Overview
-![Sales Dashboard 1](URL_TO_YOUR_IMAGE)
+![Sales Dashboard 1](https://github.com/user-attachments/assets/a2cf3715-11f4-4055-b8a2-f13ea188ec8a)
 
 ### 📊 Detailed Analysis
 ![Sales Dashboard 2](URL_TO_YOUR_IMAGE)
