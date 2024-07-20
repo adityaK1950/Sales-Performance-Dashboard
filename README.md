@@ -8,7 +8,7 @@ This project showcases a comprehensive Sales Performance Dashboard created using
 ## Screenshots 🖼️
 
 ### 🏡 Overview
-![Sales Dashboard 1](https://github.com/user-attachments/assets/a2cf3715-11f4-4055-b8a2-f13ea188ec8a)
+![Sales Dashboard 1](https://github.com/user-attachments/assets/74612bf7-11d8-4034-ac9f-7228924e5da1)
 
 ### 📊 Detailed Analysis of Central Region 🌏
 ![Sales Dashboard 2](https://github.com/user-attachments/assets/d0ac0771-ba95-488c-a024-9bc3ce5db9bc)
