@@ -19,6 +19,9 @@ This project showcases a comprehensive Sales Performance Dashboard created using
 ### 📊 Detailed Analysis of South Region 🌏
 ![Sales Dashboard 4](https://github.com/user-attachments/assets/b1131410-03df-457a-9dae-52cbcfd0f73a)
 
+### 📊 Detailed Analysis of West Region 🌏
+![Sales Dashboard 5](https://github.com/user-attachments/assets/705ce621-356b-4e83-a1b0-ba2f6fb11776)
+
 ## Technologies Used 🌐
 
 - Power BI
